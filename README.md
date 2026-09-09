@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Carlos 👋
 
-<!--
-**carlosmagic18/carlosmagic18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning programming and focusing on Python and backend development.
 
-Here are some ideas to get you started:
+🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Django (learning)
+- Git & GitHub
+
+🚀 Projects
+
+Inventory Management System
+
+A web application I'm building with Django to practice backend development, CRUD operations, models, views, URLs, and templates.
+
+More projects coming soon.
+
+📚 Currently learning
+
+I'm currently improving my Python skills and learning Django by building real projects.
