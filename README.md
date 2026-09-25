@@ -10,11 +10,7 @@ I'm learning programming and focusing on Python and backend development.
 
 🚀 Projects
 
-Inventory Management System
-
-A web application I'm building with Django to practice backend development, CRUD operations, models, views, URLs, and templates.
-
-More projects coming soon.
+...coming soon.
 
 📚 Currently learning
 
